@@ -1,0 +1,10 @@
+.master{
+display: flex;
+
+}
+
+
+.inner{
+background-color: bisque;
+margin: 20px; 
+}
